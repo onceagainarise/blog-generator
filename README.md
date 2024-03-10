@@ -1,1 +1,1 @@
-this model uses llama-2 7b llm to generate blog on the topic given by user in the user interface made using streamlit
+this model uses llama-2 7b llm to generate blog on the topic given by user in the user interface made using streamlit. works locally and the model specified in the code to be downloaded and the location to changed in the code as per requirement.
